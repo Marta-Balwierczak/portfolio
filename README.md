@@ -32,4 +32,4 @@ On this site I would like to share my all gained experience from personal studie
   - remigiuszbednarczyk.pl
   - pwicherski.gitbook.io
   # My bug reports
-  
+  - https://github.com/Marta-Balwierczak/portfolio/blob/main/Zgłoszenie%20błędów%20podczas%20testowania%20strony%20Lux.pdf
